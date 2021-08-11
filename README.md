@@ -1,4 +1,4 @@
-Hi, I’m @MrsMSanders. I’m currently studying for my UX Design certificate and simultaneously learning how to code. I have an M.S. in Marketing but am transitioning to a career in tech. 
+Hi, I’m @MrsMSanders. I’m currently studying to get certificates in Network+ and Security+. Simultaneously, I am learning how to code. I have an M.S. in Marketing but am transitioning to a career in tech. 
 
 <!---
 MrsMSanders/MrsMSanders is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
